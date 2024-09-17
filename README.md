@@ -31,5 +31,5 @@ Currently, two official plugins are available:
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-Screenshot:
+#### Screenshot:
 ![image](https://github.com/user-attachments/assets/40acd6c4-5157-4bc3-8831-cfa95c057792)
