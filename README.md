@@ -2,21 +2,20 @@
 Use Vite, React 18 (TypeScript based), MUI (material components), Axios (API fetching) and Redux (state management) to build this application
 
 - Use nvm for node version control, node -v 18.19.0
-- Use jest as the Unit test framework(configration is ready, `npm run test` to be tested, and a simple test case, snapshot created).
 - Use the `[jsonplaceholder](https://jsonplaceholder.typicode.com/todos)` API
+- 
+## How to launch the Todo Application
 
+- Steps:
+1. Run `npm i` to intall the dependencies.
+2. Run `npm run dev` to launch the localhost.
+3. 
 - Feature:
   1. Load todo list
   2. Add new todo task
   3. Remove todo task
   4. Filter the completed task
   5. Pagination
-
-## How to launch the Todo Application
-
-- Steps:
-1. Run `npm i` to intall the dependencies.
-2. Run `npm run dev` to launch the localhost.
    
 ### React + TypeScript + Vite
 
