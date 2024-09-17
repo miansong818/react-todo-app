@@ -9,7 +9,7 @@ Use Vite, React 18 (TypeScript based), MUI (material components), Axios (API fet
 - Steps:
 1. Run `npm i` to intall the dependencies.
 2. Run `npm run dev` to launch the localhost.
-3. 
+
 - Feature:
   1. Load todo list
   2. Add new todo task
