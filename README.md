@@ -3,7 +3,7 @@ Use Vite, React 18 (TypeScript based), MUI (material components), Axios (API fet
 
 - Use nvm for node version control, node -v 18.19.0
 - Use the `[jsonplaceholder](https://jsonplaceholder.typicode.com/todos)` API
-- 
+  
 ## How to launch the Todo Application
 
 - Steps:
